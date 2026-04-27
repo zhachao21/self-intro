@@ -4,31 +4,31 @@ layout: homepage
 
 ## About
 
-I am 潘浩林 (Haolin Pan), a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences. My research focuses on **AI Infra**, **compiler optimization**, **compiler auto-tuning**, **program representation learning**, and **SIMD optimization**.
+I am 查超 (Zha Chao), a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. My research focuses on **AI for Security**, **Traffic Classification**, **Traffic Analysis**, and **Network Intrusion Detection**.
 
-I work on building practical AI-for-compiler systems around LLVM / MLIR, including pass-sequence optimization, LLM/RL-driven compiler tuning, quasi-dynamic program representations, and high-performance SIMD library design. My recent work has appeared at NeurIPS, ICLR, ASE, CGO, SEKE, and IEEE TMC. For the latest citation record, please see my [Google Scholar profile](https://scholar.google.com/citations?user=J2nN70YAAAAJ&hl=zh-CN&oi=ao).
+I am dedicated to research on closed-loop robust network intrusion detection systems (NIDS), with a focus on topics such as unknown cyber threat defense, adaptation to network data drift, and cross-domain robustness of NIDS models. My research outcomes have been published in leading journals, including IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Cloud Computing (TCCN), Computers & Security, and IEEE Transactions on Network and Service Management (TNSM).
+
+For more information, please visit my Google Scholar profile: https://scholar.google.com/citations?user=iZ-cDDkAAAAJ&hl=zh-CN&oi=sra
 
 ## Education & Research
 
-- **2023.09 - 2027.06**, Ph.D. in Computer Software and Theory, Institute of Software, Chinese Academy of Sciences.
-- **2021.09 - 2023.06**, M.Eng. in Electronic Information, Institute of Software, Chinese Academy of Sciences.
-- **2016.09 - 2020.06**, B.Eng. in Computer Science and Technology, Zhengzhou University.
-- **Research topics:** AI Infra, AI for Compiler, LLVM / MLIR optimization, compiler auto-tuning, program representation learning, reinforcement-learning-based optimization, and SIMD performance engineering.
+- **2023.09 - 2026.06**, Ph.D. in Computer Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences.
+- **2021.09 - 2023.06**, M.Eng. in Electronic Information, Institute of Computing Technology, Chinese Academy of Sciences.
+- **2013.09 - 2017.06**, B.Eng. in Automation, Anhui University of Technology.
+- **Research topics:** AI for Security, Network Intrusion Detection System, Network Traffic Classification, Network Traffic Analysis.
 
 ## News
 
-- 🎉 **ICLR 2026:** First-author paper on behavioral program embeddings was accepted.
-- 🎉 **IEEE TMC:** Paper **FlowXpert** was accepted by IEEE Transactions on Mobile Computing.
-- 🎉 **ASE 2025:** First-author paper **HybridSIMD** was accepted.
-- 🎉 **NeurIPS 2025:** First-author paper **Compiler-R1** was accepted.
-- 🎉 **SEKE 2025:** First-author paper on SIMD library and compiler co-optimization was accepted.
-- 🎉 **CGO 2025:** First-author paper on synergy-guided compiler auto-tuning was accepted.
+- 🎉 **IEEE TDSC 2026:** First-author, [Normality in Anomaly: Rethinking Traffic Labels]().
+- 🎉 **IEEE TMC 2026:** First-author, [FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](https://ieeexplore.ieee.org/abstract/document/11340751).
+- 🎉 **IEEE TCCN 2026:** First-author, [Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense](https://ieeexplore.ieee.org/abstract/document/11417162).
+- 🎉 **IEEE TNSM 2025:** First-author, [DM-IDS-A Network Intrusion Detection Method Based on Dual-Modal Fusion](https://ieeexplore.ieee.org/abstract/document/10980095).
+- 🎉 **IEEE TIFS 2025:** First-author, [A-NIDS: adaptive network intrusion detection system based on clustering and stacked CTGAN](https://ieeexplore.ieee.org/abstract/document/10926490/), [Code:](https://github.com/ids-sec-hub/A-NIDS).
+- 🎉 **COSE 2025:** First-author, [SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture](https://www.sciencedirect.com/science/article/pii/S0167404824003614).
 
 {% include_relative _includes/publications.md %}
 
 ## Service, Honors & Skills
 
-- **Academic service:** NeurIPS 2025 Reviewer, NeurIPS 2026 Reviewer, ICLR 2026 LLA Workshop Reviewer, ICASSP 2026 Reviewer.
-- **Honors:** UCAS Outstanding Student Model, UCAS Outstanding Student Cadre, UCAS Merit Student.
-- **Patents:** first inventor of two SIMD-related invention patents on automatic SIMD-library testing and hybrid SIMD-library programming.
-- **Technical stack:** LLVM, MLIR, C/C++, Python, Shell, Linux, compiler passes, vectorization, auto-tuning, and performance evaluation.
+- **Academic service:** TIFS 2025, 2026 Reviewer, TDSC 2026 Reviewer, TNSM 2026 Reviewer, WWW 2026 Program Committee.
+- **Technical stack:** C/C++, Python, Shell, Linux, Pytorch.
