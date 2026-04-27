@@ -22,12 +22,12 @@ I expect to graduate in July 2026 and will join the State Key Laboratory of Bloc
 
 ## News
 
-- 🎉 **IEEE TDSC 2026:** First-author, [Normality in Anomaly: Rethinking Traffic Labels]().
-- 🎉 **IEEE TMC 2026:** First-author, [FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](https://ieeexplore.ieee.org/abstract/document/11340751).
-- 🎉 **IEEE TCCN 2026:** First-author, [Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense](https://ieeexplore.ieee.org/abstract/document/11417162).
-- 🎉 **IEEE TNSM 2025:** First-author, [DM-IDS-A Network Intrusion Detection Method Based on Dual-Modal Fusion](https://ieeexplore.ieee.org/abstract/document/10980095).
-- 🎉 **IEEE TIFS 2025:** First-author, [A-NIDS: adaptive network intrusion detection system based on clustering and stacked CTGAN](https://ieeexplore.ieee.org/abstract/document/10926490/).
-- 🎉 **COSE 2025:** First-author, [SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture](https://www.sciencedirect.com/science/article/pii/S0167404824003614).
+- 🎉 **Apr. 2026 | IEEE TDSC:** First-author, [Normality in Anomaly: Rethinking Traffic Labels]().
+- 🎉 **Feb. 2026 | IEEE TCCN:** First-author, [Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense](https://ieeexplore.ieee.org/abstract/document/11417162).
+- 🎉 **Jan. 2026 | IEEE TMC:** First-author, [FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](https://ieeexplore.ieee.org/abstract/document/11340751).
+- 🎉 **Apr. 2025 | IEEE TNSM:** First-author, [DM-IDS-A Network Intrusion Detection Method Based on Dual-Modal Fusion](https://ieeexplore.ieee.org/abstract/document/10980095).
+- 🎉 **Mar. 2025 | IEEE TIFS:** First-author, [A-NIDS: adaptive network intrusion detection system based on clustering and stacked CTGAN](https://ieeexplore.ieee.org/abstract/document/10926490/).
+- 🎉 **Aug. 2024 | COSE** First-author, [SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture](https://www.sciencedirect.com/science/article/pii/S0167404824003614).
 
 {% include_relative _includes/publications.md %}
 
