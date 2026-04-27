@@ -8,7 +8,7 @@ I am 查超 (Zha Chao), a Ph.D. candidate at the Institute of Computing Technolo
 
 I am dedicated to research on closed-loop robust network intrusion detection systems (NIDS), with a focus on topics such as unknown cyber threat defense, adaptation to network data drift, and cross-domain robustness of NIDS models. My research outcomes have been published in leading journals, including IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Cloud Computing (TCCN), Computers & Security, and IEEE Transactions on Network and Service Management (TNSM).
 
-For more information, please visit my Google Scholar profile: https://scholar.google.com/citations?user=iZ-cDDkAAAAJ&hl=zh-CN&oi=sra
+For more information, please visit my [Google Scholar profile:] (https://scholar.google.com/citations?user=iZ-cDDkAAAAJ&hl=zh-CN&oi=sra)
 
 ## Education & Research
 
@@ -23,7 +23,7 @@ For more information, please visit my Google Scholar profile: https://scholar.go
 - 🎉 **IEEE TMC 2026:** First-author, [FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](https://ieeexplore.ieee.org/abstract/document/11340751).
 - 🎉 **IEEE TCCN 2026:** First-author, [Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense](https://ieeexplore.ieee.org/abstract/document/11417162).
 - 🎉 **IEEE TNSM 2025:** First-author, [DM-IDS-A Network Intrusion Detection Method Based on Dual-Modal Fusion](https://ieeexplore.ieee.org/abstract/document/10980095).
-- 🎉 **IEEE TIFS 2025:** First-author, [A-NIDS: adaptive network intrusion detection system based on clustering and stacked CTGAN](https://ieeexplore.ieee.org/abstract/document/10926490/), [Code:](https://github.com/ids-sec-hub/A-NIDS).
+- 🎉 **IEEE TIFS 2025:** First-author, [A-NIDS: adaptive network intrusion detection system based on clustering and stacked CTGAN](https://ieeexplore.ieee.org/abstract/document/10926490/).
 - 🎉 **COSE 2025:** First-author, [SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture](https://www.sciencedirect.com/science/article/pii/S0167404824003614).
 
 {% include_relative _includes/publications.md %}
