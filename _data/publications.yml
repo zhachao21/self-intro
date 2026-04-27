@@ -1,72 +1,45 @@
 main:
 
+  - title: "Normality in Anomaly: Rethinking Traffic Labels"
+    authors: <strong>C. Zha</strong>, D. Shen, R. Zhang, K. Ren
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing, 2026.
+    page: 
+    image: ./Camero.png
+  
   - title: "FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network"
-    authors: C. Zha, <strong>H. Pan</strong>, B. Bai, J. Wu, R. Zhang
+    authors: <strong>C. Zha</strong>, H. Pan, B. Bai, J. Wu, R. Zhang
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing, 2026.
     page: https://doi.org/10.1109/TMC.2026.3651574
-    image: ./TMC.jpg
+    image: ./FlowXpert.jpg
 
-  - title: "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization"
-    authors: <strong>H. Pan</strong>, L. Huang, J. Dong, M. Xing, Y. Wu
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2602.00087, 2026.
-    pdf: https://arxiv.org/pdf/2602.00087
-    page: https://arxiv.org/abs/2602.00087
-    image: ./ECCO.png
+  - title: "A-NIDS: Adaptive Network Intrusion Detection System Based on Clustering and Stacked CTGAN"
+    authors: <strong>C. Zha</strong>, Z. Wang, Y. Fan, B. Bai, Y. Zhang, S. Shi, R. Zhang
+    conference_short: TIFS
+    conference: IEEE Transactions on Information Forensics and Security 2025.
+    page: https://doi.org/10.1109/TIFS.2025.3551643
+    code: https://github.com/ids-sec-hub/A-NIDS
+    image: ./A-NIDS.png
 
-  - title: "Towards Efficient Compiler Auto-Tuning: Leveraging Synergistic Search Spaces"
-    authors: <strong>H. Pan</strong>, Y. Wei, M. Xing, Y. Wu, C. Zhao
-    conference_short: CGO
-    conference: CGO 2025, 614-627.
-    page: https://2025.cgo.org/details/cgo-2025-papers/48/Towards-Efficient-Compiler-Auto-tuning-Leveraging-Synergistic-Search-Spaces
-    code: https://dl.acm.org/do/10.5281/zenodo.14351920/full/
-    image: ./CGO.jpg
+  - title: "Sparse Gaussian–Markov Modeling for Robust and Trustworthy Unknown Cyber Defense"
+    authors: <strong>C. Zha</strong>, T. Liu, C. Lin, B. Bai, R. Zhang
+    conference_short: TCCN
+    conference: IEEE Transactions on Cognitive Communications and Networking, 2026.
+    page: https://doi.org/10.1109/TCCN.2026.3668824
+    image: ./ZeroXpert.jpg
 
-  - title: "Compiler-R1: Towards Agentic Compiler Auto-Tuning with Reinforcement Learning"
-    authors: <strong>H. Pan</strong>, H. Lin, H. Luo, Y. Liu, K. Yao, L. Zhang, M. Xing, Y. Wu
-    conference_short: NeurIPS
-    conference: NeurIPS 2025.
-    pdf: https://openreview.net/pdf/7b8e4f95272ab1e9e3900b30ef9647d058b6b034.pdf
-    page: https://openreview.net/forum?id=tY8ctrD4W2
-    code: https://github.com/Mind4Compiler/Compiler-R1
-    image: ./NeurIPS.png
+  - title: "SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture"
+    authors: <strong>C. Zha</strong>, Z. Wang, Y. Fan, X. Zhang, B. Bai, Y. Zhang, S. Shi, R. Zhang
+    conference_short: COSE
+    conference: Computers & Security, 2024.
+    page: https://doi.org/10.1016/j.cose.2024.104056
+    image: ./SKT-IDS.jpg
 
-  - title: "Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines"
-    authors: <strong>H. Pan</strong>, J. Dong, M. Xing, Y. Wu
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2510.13184, 2025.
-    pdf: https://arxiv.org/pdf/2510.13184
-    page: https://arxiv.org/abs/2510.13184
-    image: ./LLVMNPM.jpg
-
-  - title: "GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning"
-    authors: <strong>H. Pan</strong>, C. Zha, J. Dong, M. Xing, Y. Wu
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2510.13176, 2025.
-    pdf: https://arxiv.org/pdf/2510.13176
-    page: https://arxiv.org/abs/2510.13176
-    image: ./GRACE.png
-
-  - title: "HybridSIMD: A Super C++ SIMD Library with Integrated Auto-Tuning Capabilities"
-    authors: <strong>H. Pan</strong>, X. Zhou, M. Xing, Y. Wu
-    conference_short: ASE
-    conference: IEEE/ACM International Conference on Automated Software Engineering, 2025.
-    page: https://conf.researchr.org/details/ase-2025/ase-2025-papers/186/HybridSIMD-A-Super-C-SIMD-Library-with-Integrated-Auto-tuning-Capabilities
-    code: https://github.com/Panhaolin2001/HybridSIMD/tree/ASE
-    image: ./ASE.png
-
-  - title: "Behavioral Embeddings of Programs: A Quasi-Dynamic Approach for Optimization Prediction"
-    authors: <strong>H. Pan</strong>, J. Dong, H. Zhang, H. Lin, M. Xing, Y. Wu
-    conference_short: ICLR
-    conference: ICLR 2026.
-    pdf: https://arxiv.org/pdf/2510.13158
-    page: https://openreview.net/forum?id=QDmoLEJifR
-    image: ./ICLR.png
-
-  - title: "Navigating the SIMD Optimization Maze: A Reinforcement Learning Approach to Library and Compiler Co-Optimization"
-    authors: <strong>H. Pan</strong>, Y. Zhang, M. Xing, Y. Wu
-    conference_short: SEKE
-    conference: SEKE 2025.
-    pdf: https://ksiresearch.org/seke/seke25paper/paper076.pdf
-    image: ./SEKE.png
+  - title: "DM-IDS—A Network Intrusion Detection Method Based on Dual-Modal Fusion"
+    authors: <strong>C. Zha</strong>, Z. Wang, Y. Fan, B. Bai, Y. Zhang, S. Shi, R. Zhang
+    conference_short: TNSM
+    conference: IEEE Transactions on Network and Service Management, 2025.
+    page: https://doi.org/10.1109/TNSM.2025.3565614
+    image: ./DM-IDS.png
+  
