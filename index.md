@@ -4,11 +4,13 @@ layout: homepage
 
 ## About
 
-I am 查超 (Zha Chao), a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. My research focuses on **AI for Security**, **Traffic Classification**, **Traffic Analysis**, and **Network Intrusion Detection**.
+I am Zha Chao (查超), a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. Ruyun Zhang (张汝云). My research focuses on **AI for Security**, **Traffic Classification**, **Traffic Analysis**, and **Network Intrusion Detection**.
 
 I am dedicated to research on closed-loop robust network intrusion detection systems (NIDS), with a focus on topics such as unknown cyber threat defense, adaptation to network data drift, and cross-domain robustness of NIDS models. My research outcomes have been published in leading journals, including IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Cloud Computing (TCCN), Computers & Security, and IEEE Transactions on Network and Service Management (TNSM).
 
 For more information, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=iZ-cDDkAAAAJ&hl=zh-CN&oi=sra)
+
+I expect to graduate in July 2026 and will join the State Key Laboratory of Blockchain and Data Security at Zhejiang University as a postdoctoral researcher, under the supervision of Prof. Kui Ren (任奎).
 
 ## Education & Research
 
