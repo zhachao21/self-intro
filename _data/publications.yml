@@ -4,6 +4,7 @@ main:
     authors: <strong>C. Zha</strong>, D. Shen, R. Zhang, K. Ren
     conference_short: TDSC
     conference: IEEE Transactions on Dependable and Secure Computing, 2026.
+    page: https://doi.org/10.1109/TDSC.2026.3688655
     image: ./Camero.png
   
   - title: "FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network"
