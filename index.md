@@ -14,8 +14,7 @@ I expect to graduate in July 2026 and will join the State Key Laboratory of Bloc
 
 ## Education & Research
 
-- **2023.09 - 2026.06**, Ph.D. in Computer Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences.
-- **2021.09 - 2023.06**, M.Eng. in Electronic Information, Institute of Computing Technology, Chinese Academy of Sciences.
+- **2021.09 - 2026.06**, Ph.D. in Computer Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences.
 - **2017.07 - 2020.06**, Network Security R&D Engineer in a subsidiary of China Potevio and DBAPPSecurity Co., Ltd.
 - **2013.09 - 2017.06**, B.Eng. in Automation, Anhui University of Technology.
 - **Research topics:** AI for Security, Network Intrusion Detection System, Network Traffic Classification, Network Traffic Analysis.
