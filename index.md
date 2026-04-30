@@ -6,7 +6,7 @@ layout: homepage
 
 I am Zha Chao (查超), a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. Ruyun Zhang (张汝云). My research focuses on **AI for Security**, **Traffic Classification**, **Traffic Analysis**, and **Network Intrusion Detection**.
 
-I am dedicated to research on closed-loop robust network intrusion detection systems (NIDS), with a focus on topics such as unknown cyber threat defense, adaptation to network data drift, and cross-domain robustness of NIDS models. My research outcomes have been published in leading journals, including IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Cognitive Communications and Networking (TCCN), Computers & Security, and IEEE Transactions on Network and Service Management (TNSM).
+I am dedicated to research on closed-loop robust network intrusion detection systems (NIDS), with a focus on topics such as unknown cyber threat defense, adaptation to network data drift, and cross-domain robustness of NIDS models. My research outcomes have been published in leading journals, including IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Cognitive Communications and Networking (TCCN), Computers & Security (COSE), and IEEE Transactions on Network and Service Management (TNSM).
 
 For more information, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=iZ-cDDkAAAAJ&hl=zh-CN&oi=sra)
 
@@ -27,7 +27,7 @@ I expect to graduate in July 2026 and will join the State Key Laboratory of Bloc
 - 🎉 **Jan. 2026 \| IEEE TMC:** First-author, [FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](https://ieeexplore.ieee.org/abstract/document/11340751).
 - 🎉 **Apr. 2025 \| IEEE TNSM:** First-author, [DM-IDS-A Network Intrusion Detection Method Based on Dual-Modal Fusion](https://ieeexplore.ieee.org/abstract/document/10980095).
 - 🎉 **Mar. 2025 \| IEEE TIFS:** First-author, [A-NIDS: adaptive network intrusion detection system based on clustering and stacked CTGAN](https://ieeexplore.ieee.org/abstract/document/10926490/).
-- 🎉 **Aug. 2024 \| COSE** First-author, [SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture](https://www.sciencedirect.com/science/article/pii/S0167404824003614).
+- 🎉 **Aug. 2024 \| COSE:** First-author, [SKT-IDS: Unknown attack detection method based on sigmoid kernel transformation and encoder–decoder architecture](https://www.sciencedirect.com/science/article/pii/S0167404824003614).
 
 {% include_relative _includes/publications.md %}
 
